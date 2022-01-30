@@ -16,7 +16,7 @@ except :
     from PIL import Image, ImageDraw, ImageFont 
 
 CHILD_W = CHILD_H = 16                                      # 子图的尺寸，宽和高都是16像素
-txt = '我的心是冰冰的'                                      # 输出内容
+txt = '我永远是滢宝的狗'                                      # 输出内容
 font = ImageFont.truetype('AliPuHui-Bold.ttf', CHILD_W)     # 字体及大小,选用粗体字体效果更好
 
 # 程序入口
